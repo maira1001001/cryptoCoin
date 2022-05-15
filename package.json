@@ -4,7 +4,7 @@
   "description": "",
   "main": "truffle-config.js",
   "directories": {
-    "test": "test"
+    "start": "node web3Coin.js"
   },
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.0.8",
